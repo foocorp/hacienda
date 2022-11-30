@@ -18,3 +18,7 @@
 ## What won't change
 
 * The license -- GNU AGPL 3.0 or later
+
+## Get involved 
+
+See the issues tab and comment on #1
