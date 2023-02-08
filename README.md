@@ -2,6 +2,8 @@
 
 * Things are very much at a planning stage right now, but this is the place for a future version of Libre.fm running on a new codebase (this project) written in modern PHP using the Laravel framework.
 
+* See the 'dev' branch for slow Work-In-Progress
+
 ## Why now?
 
 * Libre.fm is effectively a silo (other than Last.fm which it talks to, although federation with other instances has been possible for a _long_ time)
