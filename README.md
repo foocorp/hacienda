@@ -1,4 +1,6 @@
-# The Hacienda must be built
+# We are bored in the city, there is no longer any Temple of the Sun. 
+
+---
 
 * Things are very much at a planning stage right now, but this is the place for a future version of Libre.fm running on a new codebase (this project) written in modern PHP using the Laravel framework.
 
