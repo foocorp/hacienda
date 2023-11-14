@@ -2,9 +2,7 @@
 
 ---
 
-* Things are very much at a planning stage right now, but this is the place for a future version of Libre.fm running on a new codebase (this project) written in modern PHP using the Laravel framework.
-
-* See the ['dev'](https://github.com/foocorp/hacienda/compare/main...dev) branch for slow Work-In-Progress
+* Things are very much at a planning stage right now, but this is the place for a future version of Libre.fm running on a new codebase (this project).
 
 ## Why now?
 
