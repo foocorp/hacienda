@@ -23,4 +23,4 @@
 
 ## Get involved 
 
-[See the issues tab and comment on #1](/foocorp/hacienda/issues/1)
+[See the issues tab and comment on #1](https://github.com/foocorp/hacienda/issues/1)
