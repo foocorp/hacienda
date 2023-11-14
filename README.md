@@ -7,7 +7,7 @@
 ## Why now?
 
 * Libre.fm is effectively a silo (other than Last.fm which it talks to, although federation with other instances has been possible for a _long_ time)
-* Libre.fm has over 350,000 registered users and 274 million scrobbles.
+* Libre.fm has over 372,000 registered users and 291 million scrobbles.
 * Libre.fm should be a more active citizen in federated social web.
 
 ## Why not improve GNU FM?
