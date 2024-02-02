@@ -8,9 +8,73 @@
 
     <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
     <%= javascript_importmap_tags %>
+    
+    <style>
+      
+      body {background-color: white; 
+      font-size: large; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";  margin: 1.5em; line-height: 1.8em; font-size: 18pt;}
+      
+      header {font-size: 12pt;}
+      footer {color: white; font-size: 12pt; text-align: center;background-image: url('https://foocorp.net/stripe.png') !important; padding: 1em;}
+      footer hr {display: none;}
+      footer p {background: black; display: inline; padding: 1em;}
+      main {margin: 1em;}
+      a {color: blue !important;}
+      
+      @media (prefers-color-scheme: dark) {
+      body {background: #111; color: #eee}
+      a {color: lime !important}
+      }
+      
+      a{font-weight: bold;}
+      a:hover{color: red; background-color: yellow;}
+      html,body {
+        height:100%;
+        width:100%;
+        margin:0;
+      }
+
+      .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .albumimage{
+        float: right;
+        width: 400px;
+        border: 5px solid whitesmoke;
+      }
+      
+      
+      
+      header {background: red; color: white; text-align: center;}
+    </style>
+    
   </head>
 
   <body>
+    
+    <header>
+      <p>This is experimental software. These are non-functioning prototype screens designed to solicit <strong>your</strong> feedback on future development.</p>
+    </header>
+    
+    <main>
+           
+      <a href="/prototypes">&larr; back  to prototypes</a>
+    
     <%= yield %>
+    
+    <p class="clearfix">&nbsp;</p>
+    
+    </main>
+    
+    <footer>
+      
+      <hr />
+      
+      <p>Please report issues/feedback at <a href="https://github.com/foocorp/hacienda/issues">https://github.com/foocorp/hacienda/issues</a></p>
+    
+    </footer>
   </body>
 </html>
