@@ -23,3 +23,4 @@ Finally: `ruby -v` will show ruby 3.3.0.
 
 ## Installing Rails
 
+`gem install rails`
