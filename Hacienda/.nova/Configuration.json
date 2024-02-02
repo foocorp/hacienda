@@ -1,5 +1,8 @@
 {
+  "editor.default_syntax" : "html+erb",
   "workspace.art_style" : 0,
   "workspace.color" : 2,
-  "workspace.name" : "Hacienda"
+  "workspace.name" : "Hacienda",
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/127.0.0.1:3000"
 }
