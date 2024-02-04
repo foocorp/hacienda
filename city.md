@@ -1,3 +1,10 @@
+Formulary for a New Urbanism
+
+by Ivan Chtcheglov
+
+---
+
+
 ## SIRE, I AM FROM THE OTHER COUNTRY
 
 We are bored in the city, there is no longer any Temple of the Sun. Between the legs of the women walking by, the dadaists imagined a monkey wrench and the surrealists a crystal cup. That's lost. We know how to read every promise in faces--the latest stage of morphology. The poetry of the billboards lasted twenty years. We are bored in the city, we really have to strain to still discover mysteries on the sidewalk billboards, the latest state of humor and poetry:
@@ -25,7 +32,7 @@ And the strange statue of Dr. Philippe Pinel, benefactor of the insane, in the l
 
 And you, forgotten, your memories ravaged by all the consternations of two hemispheres, stranded in the Red Cellars of Pali-Kao, without music and without geography, no longer setting out for the hacienda where the roots think of the child and where the wine is finished off with fables from an old almanac. Now that's finished. You'll never see the hacienda. It doesn't exist.
 
-The hacienda must be built.
+*The hacienda must be built.*
 
 All cities are geological; you cannot take three steps without encountering ghosts bearing all the prestige of their legends. We move within a closed landscape whose landmarks constantly draw us toward the past. Certain shifting angles, certain receding perspectives, allow us to glimpse original conceptions of space, but this vision remains fragmentary. It must be sought in the magical locales of fairy tales and surrealist writings: castles, endless walls, little forgotten bars, mammoth caverns, casino mirrors.
 
