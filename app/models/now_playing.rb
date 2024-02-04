@@ -1,0 +1,2 @@
+class NowPlaying < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RecoveryRequest < ApplicationRecord
+end

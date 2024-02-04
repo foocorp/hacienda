@@ -1,0 +1,2 @@
+class SimilarArtist < ApplicationRecord
+end

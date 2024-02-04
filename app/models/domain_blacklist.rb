@@ -1,0 +1,2 @@
+class DomainBlacklist < ApplicationRecord
+end
