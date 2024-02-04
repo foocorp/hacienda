@@ -20,6 +20,7 @@ We are bored in the city, there is no longer any Temple of the Sun. Between the 
 
 And the swimming pool on the Street of Little Girls. And the police station on Rendezvous Street. The medical-surgical clinic and the free placement center on the Quai des Orfevres. The artificial flowers on Sun Street. The Castle Cellars Hotel, the Ocean Bar and the Coming and Going Cafe. The Hotel of the Epoch.
 
+
 And the strange statue of Dr. Philippe Pinel, benefactor of the insane, in the last evenings of summer. To explore Paris.
 
 And you, forgotten, your memories ravaged by all the consternations of two hemispheres, stranded in the Red Cellars of Pali-Kao, without music and without geography, no longer setting out for the hacienda where the roots think of the child and where the wine is finished off with fables from an old almanac. Now that's finished. You'll never see the hacienda. It doesn't exist.
