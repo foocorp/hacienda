@@ -11,8 +11,10 @@
     
     <style>
       
+      
+      
       body {background-color: white; 
-      font-size: large; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";  margin: 1.5em; line-height: 1.8em; font-size: 18pt;}
+      font-size: large; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";  margin: 1.5em; line-height: 1.8em; font-size: 14pt;}
       
       header {font-size: 12pt;}
       footer {color: white; font-size: 12pt; text-align: center;background-image: url('https://foocorp.net/stripe.png') !important; padding: 1em;}
@@ -33,6 +35,10 @@
         width:100%;
         margin:0;
       }
+      
+      
+      @media (min-width: 1000px) {
+
 
       .clearfix::after {
         content: "";
@@ -43,12 +49,36 @@
       .albumimage{
         float: right;
         width: 400px;
-        border: 5px solid whitesmoke;
+        text-align: center;
+        font-size: 80%;
+        line-height: 1.5;
       }
       
+      .albumimage ul {list-style: none;}
       
+      .albumimage img {width: 400px;}
+      
+      .otherreleases{font-size: small; line-height: 1;}
+      
+    }
       
       header {background: red; color: white; text-align: center;}
+      
+      @media (max-width: 1000px) {
+      html, body, main {
+      margin: 0;
+      padding: 0;
+      font-size: 10pt;
+      }
+      
+      main {margin: 1em}
+      .albumimage {margin: auto; width: 100%; max-width: 300px !important;}
+      .albumimage img {max-width: 300px; width: 100%;}
+      .albumimage ul {display: none;}
+       
+      
+        
+      
     </style>
     
   </head>
