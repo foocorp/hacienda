@@ -1,1 +1,13 @@
-<%= render @user %>
+<h1><%= @user.fullname %></h1>
+
+<%= image_tag gravatar(@user, size:500) %>
+
+<ul>
+	<li><%= @user.username %></li>
+	<li><%= @user.bio %></li>
+	<li><%= @user.laconica_profile %></li>
+	<li><%= @user.email %></li>
+	<li><%= @user.homepage %></li>
+	<li><%= @user.password %>  (we shouldn't show passwords)</li>
+</ul>	
+
