@@ -1,4 +1,4 @@
-# We are bored in the city, there is no longer any Temple of the Sun. 
+# [We are bored in the city, there is no longer any Temple of the Sun. ](city.md)
 
 ---
 
