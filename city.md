@@ -1,4 +1,4 @@
-SIRE, I AM FROM THE OTHER COUNTRY
+## SIRE, I AM FROM THE OTHER COUNTRY
 
 We are bored in the city, there is no longer any Temple of the Sun. Between the legs of the women walking by, the dadaists imagined a monkey wrench and the surrealists a crystal cup. That's lost. We know how to read every promise in faces--the latest stage of morphology. The poetry of the billboards lasted twenty years. We are bored in the city, we really have to strain to still discover mysteries on the sidewalk billboards, the latest state of humor and poetry:
 
@@ -17,7 +17,8 @@ We are bored in the city, there is no longer any Temple of the Sun. Between the 
 * Family Boarding House in the Garden
 * Hotel of Strangers
 * Wild Street
-* And the swimming pool on the Street of Little Girls. And the police station on Rendezvous Street. The medical-surgical clinic and the free placement center on the Quai des Orfevres. The artificial flowers on Sun Street. The Castle Cellars Hotel, the Ocean Bar and the Coming and Going Cafe. The Hotel of the Epoch.
+
+And the swimming pool on the Street of Little Girls. And the police station on Rendezvous Street. The medical-surgical clinic and the free placement center on the Quai des Orfevres. The artificial flowers on Sun Street. The Castle Cellars Hotel, the Ocean Bar and the Coming and Going Cafe. The Hotel of the Epoch.
 
 And the strange statue of Dr. Philippe Pinel, benefactor of the insane, in the last evenings of summer. To explore Paris.
 
