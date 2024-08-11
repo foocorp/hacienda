@@ -10,17 +10,13 @@ default: &default
   timeout: 5000
 
 development:
-    adapter: postgresql
-    encoding: unicode
-    database: librefm
-    pool: 5
-    username: mattl
-    password: 
+    adapter: sqlite3
+    database: db/development.sqlite3
+    pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+    timeout: 5000    
   
 test:
-    adapter: postgresql
-    encoding: unicode
-    database: librefm
-    pool: 5
-    username: mattl
-    password: 
+    adapter: sqlite3
+    database: db/development.sqlite3
+    pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+    timeout: 5000    
