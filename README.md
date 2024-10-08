@@ -3,6 +3,7 @@
 ---
 
 * Things are very much at a planning stage right now, but this is the place for a future version of Libre.fm running on a new codebase (this project).
+* See [how to get involved](https://github.com/foocorp/documentation/wiki/First-contribution-to-Libre.fm)
 
 ## Why now?
 
