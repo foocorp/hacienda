@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
+**Please try Web Scrobbler, DeadBeeF or zomg**
 
+* https://github.com/foocorp/hacienda/wiki/Web-Scrobbler
+* https://github.com/foocorp/hacienda/wiki/DeaDBeeF
+* https://packages.debian.org/unstable/zomg
