@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Libre.fm Community Support
+    url: https://github.com/foocorp/hacienda/discussions
+    about: Please ask and answer questions here.
+  - name: Libre.fm direct user support for account issues
+    url: mailto:support@libre.fm
+    about: Please contact us directly via email for issues related to your account.
